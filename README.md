@@ -32,7 +32,7 @@ git clone https://github.com/BooraAnnu/Pandas-Tutorial
 
 	3) File related operations on DataFrames
 
-	a) CSV Files
+  	a) CSV Files
 
 	b) JSON Files
 
