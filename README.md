@@ -33,16 +33,16 @@ Index :
    
    i) CSV Files
   
-  ii)	JSON Files
+   ii)	JSON Files
 
 4.  Data operations using Pandas
     
     i) Handle missing data
    
-   ii)	Cleaning data of wrong format
+    ii)	Cleaning data of wrong format
   
-  iii) cleaning wrong data
+    iii) cleaning wrong data
   
-  iv)	Removing duplicates
+    iv)	Removing duplicates
 
 5. Data Correlation
