@@ -25,10 +25,8 @@ If you have git installed, you can get the material in this tutorial by cloning 
 
 git clone https://github.com/BooraAnnu/Pandas-Tutorial
 
-Content :
-To view the content on nbviewer:
+Index : 
 
-Index
 1. Introduction
 2. Data structures
 3. File related operations on DataFrames
