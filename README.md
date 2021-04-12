@@ -26,20 +26,27 @@ git clone https://github.com/BooraAnnu/Pandas-Tutorial
 
 # Content :
 
-4.	Data Correlation
-
-
-
 	1) Introduction
+
 	2) Data structures
+
 	3) File related operations on DataFrames
+
 	a) CSV Files
+
 	b) JSON Files
+
 	4) Data operations using Pandas
+
 	a)  Handle missing data
+
 	b)  Cleaning data of wrong format
+
 	c) Cleaning wrong data
+
 	d) Removing duplicate
+
 	5) Data Correlation
+
 	6) Data Visualization
 
