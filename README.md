@@ -29,11 +29,11 @@ git clone https://github.com/BooraAnnu/Pandas-Tutorial
 1) Introduction
 2) Data structures
 3) File related operations on DataFrames
-i) CSV Files
-ii) JSON Files
+3a) CSV Files
+3b) JSON Files
 4) Data operations using Pandas
-  i) Handle missing data
-  ii) Cleaning data of wrong format
-  iii) cleaning wrong data
-  iv) Removing duplicates
+4a) Handle missing data
+4b) Cleaning data of wrong format
+4c) cleaning wrong data
+4d) Removing duplicates
 5) Data Correlation
