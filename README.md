@@ -30,7 +30,9 @@ Index :
 1. Introduction
 2. Data structures
 3. File related operations on DataFrames
+   
    i) CSV Files
+  
   ii)	JSON Files
 4.  Data operations using Pandas
     i) Handle missing data
